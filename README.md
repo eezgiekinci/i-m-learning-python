@@ -1,4 +1,4 @@
-# i-m-learning-python  🐍
+# i-m-learning-python-1  🐍
 
 I'm currently working on programming so you can check out Wiki section :)   👩‍💻 19.08.22
 
